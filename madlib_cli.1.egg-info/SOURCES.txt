@@ -1,0 +1,7 @@
+README.rst
+setup.py
+madlib_cli.1.egg-info/PKG-INFO
+madlib_cli.1.egg-info/SOURCES.txt
+madlib_cli.1.egg-info/dependency_links.txt
+madlib_cli.1.egg-info/top_level.txt
+madlib_cli_1/__init__.py
