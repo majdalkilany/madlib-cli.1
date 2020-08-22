@@ -35,7 +35,8 @@ def parse(fname):
 
             
             
-            # user_input = input(f' please  enter {the_word}  >> ')
+            # user_input = input(f' please  enter {the_word}  >> ')  
+            
             user_inputs.append(the_word)
         # print(user_inputs)
         return user_inputs 
@@ -86,4 +87,5 @@ if __name__ == "__main__":
     # print(list_words)
     new_words = user_input(list_words)
 
-    merge_and_write_file(new_words,fname)
+    majd=merge_and_write_file(new_words,fname)
+    print(majd)
